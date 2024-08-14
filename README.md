@@ -1,6 +1,10 @@
-# DL-Project1-10-07-2024
-Belong to Deep Learning Course by Limitless
+# Limiteless Training - Deep Learning Course
 
-# How to use
-*Install Python
-*More instruction soon
+
+# Syllabus
+*Week 1 - 2 :  Neural Network - > Hand-DIgits recognition
+*Week 3 - 4: Convolutional Neural Networks - > Transfer Learning
+*Week 5: Time series models -> Stock-price Prediction
+*Week6-7: Transformer models -> Text summarization
+*Week 8: Auto-encoders & GANs - > Colouring Images
+
